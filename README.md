@@ -1,6 +1,6 @@
 ### \<hello>\</hello>
 
-##### ⚡ Atualmente trabalho como Programador de Sistemas na Quickup!
+##### ⚡ Atualmente trabalho como Desenvolvedor Full Stack na Bloxs!
 ##### 📚 Estou estudando Vue.js
 
 <div align="center">
